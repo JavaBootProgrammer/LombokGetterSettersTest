@@ -1,0 +1,2 @@
+# LombokGetterSettersTest
+LombokGetterSettersTest
